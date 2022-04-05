@@ -1,4 +1,4 @@
-package sk.train;
+package main.java.sk.train;
 
 public class Hallo {
 
