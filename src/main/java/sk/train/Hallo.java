@@ -1,8 +1,8 @@
-package main.java.sk.train;
+package sk.train;
 
 public class Hallo {
 
     public static void main(String[] args) {
-        System.out.println("Hallo");
+        System.out.println("Huhu");
     }
 }
